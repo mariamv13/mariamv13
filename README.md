@@ -40,5 +40,5 @@
 
 ¿Tienes un proyecto en mente o una oportunidad que crees que me encajaría? Escríbeme sin compromiso.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/maría-martín-vélez-50001b40a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-mart%C3%ADn-v%C3%A9lez-50001b40a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmartinvelez13@gmail.com)
