@@ -36,11 +36,11 @@
 
 | Proyecto | Descripción | Demo |
 |----------|-------------|------|
-| 🎬 [TakeOne](https://github.com/mariamv13/TakeOne) | Plataforma cinematográfica social con diario personal, listas, chat en tiempo real y recomendaciones | [Ver demo](https://takeone.gt.tc) |
-| 🔍 [DomainCheck](https://github.com/mariamv13/domain-check.git) | Analiza la salud básica de un dominio: certificado SSL, cabeceras de seguridad HTTP, autenticación de email (SPF/DMARC), accesibilidad y buenas prácticas, con informe visual y puntuación | [Ver demo](https://domain-check-seven.vercel.app/) |
-| 🎥 [MovieFinder](https://github.com/mariamv13/MovieFinder.git) | App para explorar y buscar películas con la API de TMDB. Empezó en JavaScript vanilla al aprender React y fue migrada íntegramente a TypeScript en modo estricto | [Ver demo](https://movie-finder-dun-nine.vercel.app/) |
-| 🎵 [Flowlist](https://github.com/mariamv13/Flowlist.git) | Genera playlists personalizadas combinando estado de ánimo, género musical y época, usando la API de Last.fm, con gestión de estado y persistencia en localStorage | REPO/DEMO PENDIENTE |
-| 💼 [CV Interactivo](https://github.com/mariamv13/cv.git) | Portfolio personal en formato changelog versionado, con animaciones al hacer scroll mediante IntersectionObserver nativo | [Ver demo](https://mariamv13.github.io/cv) |
+|[TakeOne](https://github.com/mariamv13/TakeOne) | Plataforma cinematográfica social con diario personal, listas, chat en tiempo real y recomendaciones | [Ver demo](https://takeone.gt.tc) |
+|[DomainCheck](https://github.com/mariamv13/domain-check.git) | Analiza la salud básica de un dominio: certificado SSL, cabeceras de seguridad HTTP, autenticación de email (SPF/DMARC), accesibilidad y buenas prácticas, con informe visual y puntuación | [Ver demo](https://domain-check-seven.vercel.app/) |
+|[MovieFinder](https://github.com/mariamv13/MovieFinder.git) | App para explorar y buscar películas con la API de TMDB. Empezó en JavaScript vanilla al aprender React y fue migrada íntegramente a TypeScript en modo estricto | [Ver demo](https://movie-finder-dun-nine.vercel.app/) |
+|[Flowlist](https://github.com/mariamv13/Flowlist.git) | Genera playlists personalizadas combinando estado de ánimo, género musical y época, usando la API de Last.fm, con gestión de estado y persistencia en localStorage | REPO/DEMO PENDIENTE |
+|[CV Interactivo](https://github.com/mariamv13/cv.git) | Portfolio personal en formato changelog versionado, con animaciones al hacer scroll mediante IntersectionObserver nativo | [Ver demo](https://mariamv13.github.io/cv) |
 
 ---
 
