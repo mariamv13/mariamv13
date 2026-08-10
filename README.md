@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola, soy María 👋
+# Hola, soy María 👋🏻
 
-**Desarrolladora web fullstack**
+**Desarrolladora web full stack**
 
 </div>
 
