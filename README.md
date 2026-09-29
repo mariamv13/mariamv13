@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy María 👋🏻
+# ¡Hola, soy María! 👋🏻
 
 **Desarrolladora web full stack**
 
@@ -28,6 +28,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-DF0067?style=for-the-badge&logo=prestashop&logoColor=white)
 
 ---
 
