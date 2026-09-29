@@ -10,10 +10,9 @@
 
 ### Sobre mí
 
-- 🎓 Grado Superior en **Desarrollo de Aplicaciones Web** — IES Suárez de Figueroa, Zafra
-- 🌱 Aprendiendo constantemente
+- Grado Superior en **Desarrollo de Aplicaciones Web** — IES Suárez de Figueroa, Zafra
+- Aprendiendo constantemente
 - 📍 Extremadura, España
-- 🎬 Mi proyecto más completo es **TakeOne**, una plataforma de cine que construí de principio a fin
 
 ---
 
